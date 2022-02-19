@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Desktop)(type KiCad)(uri C:/Users/dwerner/Desktop)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri C:/Users/dwerner/Desktop/logo.pretty)(options "")(descr ""))
+)

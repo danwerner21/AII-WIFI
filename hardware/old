@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>C:\Users\dwerner\Documents\KiCad\Aii-WiFi\Aii-WiFi.sch</h1>
+    <p>9/5/2020 12:08:04 PM</p>
+    <p>Eeschema (5.1.5)-3</p>
+    <p><b>Component Count:</b>13</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>BUS1</td><td>1</td><td>A2_BUS</td><td>Apple2_bus:A2_BUS</td><td></td><td></td><td></td></tr><tr><td>C1, C2, C3, C4</td><td>4</td><td>C</td><td>Device:C</td><td>~</td><td>Unpolarized capacitor</td><td></td></tr><tr><td>J1</td><td>1</td><td>NodeMCU ESP8266 Wifi A</td><td>Connector:Conn_01x15_Female</td><td>~</td><td>Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J2</td><td>1</td><td>FTDI CONN</td><td>Connector_Generic:Conn_01x04</td><td>~</td><td>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J3</td><td>1</td><td>IRQ ENABLE</td><td>Connector:Conn_01x02_Male</td><td>~</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J4</td><td>1</td><td>NodeMCU ESP8266 Wifi  B</td><td>Connector:Conn_01x15_Female</td><td>~</td><td>Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>U1</td><td>1</td><td>27C64</td><td>Memory_EPROM:27C64</td><td>http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf</td><td>OTP EPROM 64 KiBit, [Obsolete 2004-01]</td><td></td></tr><tr><td>U2</td><td>1</td><td>6551</td><td>65xx:6551</td><td>http://www.6502.org/documents/datasheets/mos/mos_6551_acia.pdf</td><td>6551 NMOS Asynchronous Communication Interface Adapter (ACIA), Serial UART, DIP-28</td><td></td></tr><tr><td>U3</td><td>1</td><td>74LS04</td><td>74xx:74LS04</td><td>http://www.ti.com/lit/gpn/sn74LS04</td><td>Hex Inverter</td><td></td></tr><tr><td>Y1</td><td>1</td><td>Crystal</td><td>Device:Crystal</td><td>~</td><td>Two pin crystal</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
